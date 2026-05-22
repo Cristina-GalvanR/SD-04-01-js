@@ -5,7 +5,7 @@ const arr = [
   ]
   
   // Type your code below this line!
-  
-  
-  
+  arr.push([30,31,32,33,34,35,36,37,38,39]);
+  arr[1].splice(5, 1);
+  arr[0].push(10);
   // Type your code above this line!
